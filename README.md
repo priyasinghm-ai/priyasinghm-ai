@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Priya+Singh;AI+Engineer;Data+Engineer;Cloud+Engineer;Generative+AI+%7C+Azure+%7C+AWS+%7C+Databricks" />
+</p>
 <h1 align="center">Hi 👋, I'm Priya Singh</h1>
 
 <h3 align="center">
@@ -20,27 +23,19 @@ Building Enterprise AI Applications • Cloud Data Platforms • Intelligent Aut
 
 ---
 
-# 🛠 Tech Stack
 
-### Programming
+## 💻 Tech Stack
 
-Python • SQL • Scala • Java
-
-### AI & Machine Learning
-
-OpenAI • LangChain • RAG • FAISS • FastAPI • Scikit-Learn • MLflow
-
-### Data Engineering
-
-Apache Spark • Databricks • Delta Lake • Kafka • Azure Data Factory • Great Expectations
-
-### Cloud
-
-Microsoft Azure • AWS • Google Cloud Platform
-
-### Enterprise Platforms
-
-ServiceNow • Salesforce
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Databricks](https://img.shields.io/badge/Databricks-EA3E2C?style=for-the-badge&logo=databricks)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
@@ -96,4 +91,13 @@ https://www.linkedin.com/in/priya-271638338/
 
 <p align="center">
 <i>Building scalable AI solutions that transform enterprise data into intelligent decisions.</i>
+</p>
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=priyasinghm-ai&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyasinghm-ai&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
