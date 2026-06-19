@@ -1,42 +1,99 @@
-# Hi 👋, I'm Priya Singh
+<h1 align="center">Hi 👋, I'm Priya Singh</h1>
 
-### AI Engineer | Data Engineer | Cloud Engineer
+<h3 align="center">
+AI Engineer • Data Engineer • Cloud Engineer
+</h3>
 
-Building scalable AI applications, cloud-native data platforms, and enterprise automation.
+<p align="center">
+Building Enterprise AI Applications • Cloud Data Platforms • Intelligent Automation
+</p>
+
+---
 
 ## 🚀 About Me
-- 💼 6+ years of experience in AI Engineering, Data Engineering and Cloud
-- 🤖 Enterprise GenAI, RAG, LangChain, FastAPI
-- ☁️ Azure • AWS • GCP • Databricks
-- 🏥 Healthcare • 💳 Financial Services
 
-## 🛠️ Tech Stack
-**Languages:** Python, SQL, Scala, Java
+- 💼 AI & Data Engineer with 6+ years of experience
+- 🤖 Building Enterprise Generative AI, RAG & LLM Applications
+- ☁️ Multi-Cloud Experience (Azure • AWS • GCP)
+- 📊 Passionate about Data Engineering, MLOps and Intelligent Automation
+- 🏥 Healthcare • 💳 Financial Services • Enterprise Platforms
 
-**AI:** OpenAI, LangChain, RAG, FAISS, FastAPI
+---
 
-**Data Engineering:** Spark, Databricks, Delta Lake, Kafka, MLflow
+# 🛠 Tech Stack
 
-**Cloud:** Azure, AWS, GCP
+### Programming
 
-**Enterprise:** ServiceNow, Salesforce
+Python • SQL • Scala • Java
 
-## ⭐ Featured Projects
-- Enterprise RAG AI Assistant
-- Financial Credit Risk AI Platform
-- Healthcare Data Lake Quality Platform
+### AI & Machine Learning
 
-## 📜 Certifications
+OpenAI • LangChain • RAG • FAISS • FastAPI • Scikit-Learn • MLflow
+
+### Data Engineering
+
+Apache Spark • Databricks • Delta Lake • Kafka • Azure Data Factory • Great Expectations
+
+### Cloud
+
+Microsoft Azure • AWS • Google Cloud Platform
+
+### Enterprise Platforms
+
+ServiceNow • Salesforce
+
+---
+
+# 🌟 Featured Projects
+
+## 🤖 Enterprise RAG AI Assistant
+
+Enterprise Retrieval-Augmented Generation (RAG) assistant using LangChain, FastAPI, FAISS and LLMs for intelligent enterprise knowledge retrieval.
+
+---
+
+## 💳 Financial Credit Risk AI Platform
+
+Enterprise credit risk analytics platform built using Databricks, Spark, Azure Data Lake, MLflow and Machine Learning.
+
+---
+
+## 🏥 Healthcare Data Lake Quality Platform
+
+Healthcare data engineering platform leveraging Azure Data Factory, Databricks, Delta Lake and enterprise data quality validation.
+
+---
+
+# 🏆 Certifications
+
 - Databricks Certified Data Engineer Associate
 - AWS Generative AI Applications Professional Certificate
 - Microsoft Azure AI Fundamentals
-- ServiceNow CSA & CAD
-- CIS – Data Foundations (CMDB & CSDM)
+- ServiceNow Certified System Administrator
+- ServiceNow Certified Application Developer
+- Certified Implementation Specialist – Data Foundations (CMDB & CSDM)
 
-## 📫 Connect
-- 📧 priya031998s@gmail.com
-- 💼 https://www.linkedin.com/in/priya-271638338/
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyasinghm-ai&show_icons=true&theme=github_dark)
+# 🌱 Currently Learning
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyasinghm-ai&layout=compact&theme=github_dark)
+- Agentic AI
+- Knowledge Graphs
+- Enterprise AI Architecture
+- Advanced MLOps
+- AI Governance
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** priya031998s@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/priya-271638338/
+
+---
+
+<p align="center">
+<i>Building scalable AI solutions that transform enterprise data into intelligent decisions.</i>
+</p>
